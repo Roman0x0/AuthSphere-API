@@ -1,0 +1,14 @@
+{
+    "DBLogin": "", // database login
+	"DBPass": "", // database password
+	"DBConnection": "127.0.0.1:3306",
+	"DBName": "", // database name
+
+    "ErrorColor": "#b30000",
+	"GreenColor": "#29a329",
+	"YellowColor": "#ffff66",
+
+	"ProxyCheckKey": "", // key for the proxy check service (antivpn)
+	"SellixWebhookSecret": "" // sellix was used as a payment provider so here would be the webhook secret
+	
+}
